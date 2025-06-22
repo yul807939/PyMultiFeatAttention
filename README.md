@@ -8,4 +8,4 @@ Traditional classification of flagellates relies on morphological traits or sing
 
 
 # Overview
-![Image text](https://github.com/yul807939/PyMultiFeatAttention.git/pic/overview.png)
+![Image text](https://github.com/yul807939/PyMultiFeatAttention/tree/main/pic/overview.png)
