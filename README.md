@@ -1,6 +1,6 @@
 
 
-# Accurate Identification of Mastigophora Species via Multimodal Deep Learning: An Integrated Classification Model Combining Morphological and Molecular Data
+# Accurate Identification of Flagellates Using Multimodal Deep Learning: An Integrated Classification Model Combining Morphological and Molecular Data
 
 
 # Abstract
